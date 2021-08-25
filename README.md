@@ -1,2 +1,2 @@
-# Bitrar-Offical-Website
-This Website Was Originally Runned On NYCA, Now Proudly Runs On Github.
+## Bitrar
+This Page Is Where The Heart Of Bitrar Runs.
